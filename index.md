@@ -5,8 +5,6 @@ author_profile: true
 
 # Welcome to My Professional Portfolio
 
-![Donald Kimtai](/assets/images/profiledp.jpg)
-
 **Donald Kimtai**  
 *ICT Security Specialist*  
 Dedicated ICT Security Specialist with expertise in cybersecurity, application security, and coding education, passionate about building robust digital defenses and empowering others through technology.
