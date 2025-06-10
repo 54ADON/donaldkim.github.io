@@ -1,8 +1,8 @@
 ---
-permalink: /about/
-title: "About"
+layout: single
+title: About
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+# About Donald Kimtai
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I'm an ICT Security Specialist with a Bachelor’s degree in Computer Security and Forensics from Meru University of Science and Technology (2020-2024). Certified in Cybersecurity by ISC2, I specialize in vulnerability management, network security, and coding education. My work includes developing a 12-week coding curriculum adopted by schools, publishing cybersecurity research on Medium, and securing web applications through bug bounty programs, identifying vulnerabilities like IDOR and XSS. Passionate about aligning technology with organizational goals, I aim to build robust digital defenses and empower others through training in Python, JavaScript, and robotics frameworks like Arduino and Raspberry Pi.
