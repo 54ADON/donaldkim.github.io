@@ -1,9 +1,10 @@
 ---
 layout: single
-title: Contact
+permalink: /contact/
+title: "Contact"
 ---
 
-# Contact Me
+# Get in Touch
 
 I'm excited to connect for collaboration, opportunities, or discussions about cybersecurity and coding education. Reach out through the following channels:
 
