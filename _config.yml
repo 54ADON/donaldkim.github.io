@@ -63,7 +63,7 @@ author:
   bio    : "I'm a passionate cybersecurity professional focused on web application and API security, with hands-on experience in penetration testing, vulnerability analysis, and digital forensics."
   links:
     - label: "linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/donald-kimtai/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -84,7 +84,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/donaldkimtai"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/donald-kimtai/"
 
 defaults:
