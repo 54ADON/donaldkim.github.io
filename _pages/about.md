@@ -8,7 +8,7 @@ classes: wide
 
 # About Me
 
-Hi! I’m **Donald Kimtai**, a passionate Security Consultant and Web Application & API Security Researcher based in Nairobi, Kenya. I specialize in identifying, testing, and securing vulnerabilities in web platforms, APIs, and cloud-based services.
+Hi I’m **Donald Kimtai**, a passionate Security Consultant and Web Application & API Security Researcher based in Nairobi, Kenya. I specialize in identifying, testing, and securing vulnerabilities in web platforms, APIs, and cloud-based services.
 
 I have a strong foundation in ethical hacking, digital forensics, and penetration testing, I help organizations protect their digital assets through practical, standards-aligned security solutions.
 
