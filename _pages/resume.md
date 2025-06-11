@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_image: /assets/images/banner.jpg
   overlay_filter: 0.3
-  caption: "Professional journey of Abigael — Cybersecurity & Forensics"
+  caption: "My Professional journey"
 ---
 
 # 🎓 Academic Background
@@ -14,7 +14,7 @@ header:
 **Bachelor of Science in Computer Security and Forensics**  
 Meru University of Science and Technology (11/2020 – 10/2024)  
 Relevant coursework: Cybersecurity, Application Development, Network Security, Digital Forensics
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7249849103382179840" height="656" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7249849103382179840" height="700" width="650" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 **Kenya Certificate of Secondary Education**  
 St. Joseph's Boys High School (01/2016 – 11/2019)  
@@ -31,22 +31,22 @@ Strong foundation in science and technology subjects
 - Conducted cybersecurity awareness training
 
 **Internship**  
-*Kapenguria Law Courts* (05/2024 – 07/2024)  
+*Law Courts* (05/2024 – 07/2024)  
 - Monitored network performance and resolved vulnerabilities  
 - Provided technical support for 20+ staff  
 
 **Internship**  
-*Elgeyo Marakwet County Government* (05/2023 – 07/2023)  
+*County Government* (05/2023 – 07/2023)  
 - Reduced system downtime and configured firewalls  
 
 ---
 
 # 📜 Certifications
 
-- [Certified in Cybersecurity – ISC2](https://example.com/certificate1) (03/2024 – 05/2024)  
+- [Certified in Cybersecurity – ISC2](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2635c405-9741-493b-80c9-ff976d0db4f3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>) (03/2024 – 05/2024)  
 - [Executive Diploma in Leadership – Udemy](https://example.com/certificate2) (04/2024)  
 - [Python Essential 1 – Cisco](https://example.com/certificate3) (04/2024 – 06/2024)  
-- [Security, Compliance, and Identity Fundamentals – Microsoft Certified](https://example.com/certificate4) (04/2024 – 06/2024)
+- [Security, Compliance, and Identity Fundamentals – Microsoft Certified](https://learn.microsoft.com/api/credentials/share/en-us/DonaldKimtai-1103/F6706499C48B5C39?sharingId=4F81F56C9091B3C5) (04/2024 – 06/2024)
 
 ---
 
