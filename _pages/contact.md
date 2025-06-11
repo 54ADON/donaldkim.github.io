@@ -20,10 +20,10 @@ classes: wide
 
 I’m currently available for:
 
-- ✅ Freelance Projects  
-- ✅ Contract Work  
-- ✅ Consulting  
-- ✅ Remote Opportunities
+- Freelance Projects  
+- Contract Work  
+- Consulting  
+-  Remote Opportunities
 
 Let’s discuss how I can contribute to your next project
 
