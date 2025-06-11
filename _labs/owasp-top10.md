@@ -4,7 +4,7 @@ excerpt: "Hands-on challenge to understand and exploit the OWASP Top 10 vulnerab
 layout: single
 date: 2025-05-05
 read_time: true
-image: /assets/images/labs/owasp10cover.png
+image: /assets/images/labs/owasp10cover.jpg
 header:
   overlay_image: /assets/images/labs/owasp-top10-banner.png
   caption: "Practical OWASP Top 10 Labs on TryHackMe"
