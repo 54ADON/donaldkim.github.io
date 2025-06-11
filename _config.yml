@@ -112,6 +112,11 @@ collections:
     output: true
     permalink: /projects/:title/
 
+  labs:
+    output: true
+    permalink: /labs/:name/
+  
+
 
 category_archive:
   type: liquid
