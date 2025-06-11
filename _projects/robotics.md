@@ -4,7 +4,7 @@ excerpt: "12-week Python and robotics program aligned to Kenya's CBC STEM goals.
 date: 2025-01-01
 tags: [Education, Robotics, Python]
 header:
-  image: /assets/images/projects/robotics.png
+  image: /assets/images/projects/banner1.png
 ---
 
 **Description**  
