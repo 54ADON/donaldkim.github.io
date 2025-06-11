@@ -14,14 +14,7 @@ header:
 **Bachelor of Science in Computer Security and Forensics**  
 Meru University of Science and Technology (11/2020 – 10/2024)  
 Relevant coursework: Cybersecurity, Application Development, Network Security, Digital Forensics
-
-<div style="position: relative; padding-bottom: 75%; height: 0; overflow: hidden; max-width: 100%; border-radius: 10px;">
-  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7249849103382179840?collapsed=1"
-          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-          allowfullscreen
-          title="LinkedIn Graduation Post">
-  </iframe>
-</div>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7249849103382179840" height="656" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 **Kenya Certificate of Secondary Education**  
 St. Joseph's Boys High School (01/2016 – 11/2019)  
