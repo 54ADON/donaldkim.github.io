@@ -1,17 +1,48 @@
 ---
 layout: single
-permalink: /contact/
 title: "Contact"
+permalink: /contact/
+author_profile: true
+classes: wide
 ---
 
-# Get in Touch
+# 📬 Get In Touch
 
-I'm excited to connect for collaboration, opportunities, or discussions about cybersecurity and coding education. Reach out through the following channels:
+## Contact Information
 
-- **LinkedIn**: [linkedin.com/in/donald-kimtai](https://linkedin.com/in/donald-kimtai)  
-- **GitHub**: [github.com/54ADON/dkimtal](https://github.com/54ADON/dkimtal)  
-- **Medium**: [donald-kimtai.medium.com](https://donald-kimtai.medium.com/)  
-- **Email**: [donaldkimtai623@gmail.com](mailto:donaldkimtai623@gmail.com)  
-- **Phone**: [+254727319512](tel:+254727319512)  
+- **📧 Email**: [yourname@example.com](mailto:donaldkimtai623@gmail.com)  
+- **📍 Location**: Nairobi, Kenya  
+- **💬 WhatsApp**: [+254 727319512](https://wa.me/254727319512)
 
-Feel free to get in touch to explore how we can secure the digital world or inspire the next generation of tech professionals!
+---
+
+## 🤝 Let's Connect
+
+I’m currently available for:
+
+- ✅ Freelance Projects  
+- ✅ Contract Work  
+- ✅ Consulting  
+- ✅ Remote Opportunities
+
+Let’s discuss how I can contribute to your next project
+
+---
+
+## 📩 Send Me a Message
+
+<form action="https://formspree.io/f/your-form-id" method="POST">
+  <label for="name"><strong>Name *</strong></label><br>
+  <input type="text" id="name" name="name" required style="width: 100%; padding: 8px;"><br><br>
+
+  <label for="email"><strong>Email *</strong></label><br>
+  <input type="email" id="email" name="_replyto" required style="width: 100%; padding: 8px;"><br><br>
+
+  <label for="subject"><strong>Subject</strong></label><br>
+  <input type="text" id="subject" name="subject" style="width: 100%; padding: 8px;"><br><br>
+
+  <label for="message"><strong>Message *</strong></label><br>
+  <textarea id="message" name="message" rows="6" required style="width: 100%; padding: 8px;"></textarea><br><br>
+
+  <button type="submit" style="padding: 10px 20px; background-color: #007acc; color: white; border: none; cursor: pointer;">Send Message</button>
+</form>
