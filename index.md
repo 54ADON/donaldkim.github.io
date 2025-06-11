@@ -28,4 +28,3 @@ As a Security Consultant, I harness my passion for cybersecurity, ethical hackin
 
 ---
 
-💼 [View My Resume](/resume/) | 🛡️ [Explore My Projects](/projects/) | 📬 [Get in Touch](/contact/)
