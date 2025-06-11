@@ -4,6 +4,7 @@ excerpt: "Building and deploying serverless apps using triggers, Azure CLI, and 
 layout: single
 date: 2025-05-21
 read_time: true
+image: /assets/images/labs/azfunccover.jpg
 header:
   overlay_image: /assets/images/labs/azure-functions.png
   caption: "Building Serverless Logic with Azure"
@@ -11,13 +12,13 @@ tags: [Azure, Serverless, Functions, Cloud]
 categories: [Cloud Security]
 ---
 
-## 🧩 Problem Statement
+## Problem Statement
 
-Use Azure Functions to build serverless apps triggered by events such as HTTP requests, timers, and storage access.
+I used Azure Functions to build serverless apps triggered by events such as HTTP requests, timers, and storage access.
 
 ---
 
-## 🔍 Approach
+## Approach
 
 1. Created Azure resources (Function App, Storage Account).
 2. Configured a local .NET function project using Azure Core Tools.
@@ -26,7 +27,7 @@ Use Azure Functions to build serverless apps triggered by events such as HTTP re
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Azure Portal
 - Azure CLI
@@ -36,7 +37,7 @@ Use Azure Functions to build serverless apps triggered by events such as HTTP re
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### HTTP Trigger Test
 ![HTTP Echo Response](/assets/images/labs/azure-func-http.png)
@@ -49,7 +50,7 @@ Use Azure Functions to build serverless apps triggered by events such as HTTP re
 
 ---
 
-## 📘 Key Lessons Learned
+## Key Lessons Learned
 
 - Learned to develop and debug serverless logic locally and in the cloud.
 - Gained confidence using CLI tools for deployment and config.
