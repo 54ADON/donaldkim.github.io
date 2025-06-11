@@ -1,5 +1,6 @@
 ---
 layout: single
+permalink: /resume/
 title: Resume
 ---
 # Resume
