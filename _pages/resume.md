@@ -15,7 +15,7 @@ header:
 Meru University of Science and Technology (11/2020 – 10/2024)  
 Relevant coursework: Cybersecurity, Application Development, Network Security, Digital Forensics
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:1234567890123456789" height="500" width="100%" frameborder="0" allowfullscreen title="LinkedIn Graduation Post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7249849103382179840?collapsed=1" height="656" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 **Kenya Certificate of Secondary Education**  
 St. Joseph's Boys High School (01/2016 – 11/2019)  
