@@ -4,7 +4,7 @@ excerpt: "Hands-on practice with SQLi, XSS, command injection, and session manag
 date: 2024-06-01
 tags: [Cybersecurity, TryHackMe, Web Security]
 header:
-  image: /assets/images/projects/tryhackme.png
+  image: /assets/images/banner2.png
 ---
 
 **Description**  
