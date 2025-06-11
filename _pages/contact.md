@@ -10,7 +10,7 @@ classes: wide
 
 ## Contact Information
 
-- **📧 Email**: [yourname@example.com](mailto:donaldkimtai623@gmail.com)  
+- **📧 Email**: [donaldkimtai623@gmail.com](mailto:donaldkimtai623@gmail.com)  
 - **📍 Location**: Nairobi, Kenya  
 - **💬 WhatsApp**: [+254 727319512](https://wa.me/254727319512)
 
@@ -31,7 +31,7 @@ Let’s discuss how I can contribute to your next project
 
 ## 📩 Send Me a Message
 
-<form action="https://formspree.io/f/your-form-id" method="POST">
+<form action="https://formspree.io/f/mvgraovk" method="POST">
   <label for="name"><strong>Name *</strong></label><br>
   <input type="text" id="name" name="name" required style="width: 100%; padding: 8px;"><br><br>
 
