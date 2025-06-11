@@ -106,6 +106,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+    
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title/
+
 
 category_archive:
   type: liquid
