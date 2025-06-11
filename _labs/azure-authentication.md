@@ -4,6 +4,7 @@ excerpt: "Implementing identity management using Microsoft Entra ID and ASP.NET 
 layout: single
 date: 2025-05-28
 read_time: true
+image: /assets/images/labs/azureauthcover.jpg
 header:
   overlay_image: /assets/images/labs/azure-auth-flow.png
   caption: "Secure Sign-In with Entra ID and ASP.NET"
@@ -11,13 +12,13 @@ tags: [Azure, Authentication, Entra ID, ASP.NET]
 categories: [Cloud Security]
 ---
 
-## 🧩 Problem Statement
+## Problem Statement
 
 Implement a secure login system using Microsoft Entra ID in a cloud environment. The goal was to integrate Azure identity services into a .NET web app for single-tenant sign-in.
 
 ---
 
-## 🔍 Approach
+## Approach
 
 1. Set up Microsoft Entra ID with an application and user.
 2. Configured authentication with proper redirect URIs and token handling.
@@ -26,7 +27,7 @@ Implement a secure login system using Microsoft Entra ID in a cloud environment.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Microsoft Azure Portal
 - Entra ID (formerly Azure AD)
@@ -36,7 +37,7 @@ Implement a secure login system using Microsoft Entra ID in a cloud environment.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Entra ID App Registration
 ![Azure Entra ID App Setup](/assets/images/labs/azure-app-registration.png)
@@ -46,7 +47,7 @@ Implement a secure login system using Microsoft Entra ID in a cloud environment.
 
 ---
 
-## 📘 Key Lessons Learned
+## Key Lessons Learned
 
 - How to register and manage cloud applications in Azure Entra ID.
 - Setting up token-based auth flows in ASP.NET securely.
