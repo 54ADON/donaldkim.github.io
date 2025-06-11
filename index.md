@@ -18,7 +18,7 @@ intro:
   - excerpt: "I specialize in ethical hacking, web application security, API vulnerability research, and penetration testing. I help organizations secure their digital assets."
 ---
 
-<img src="/assets/images/profile.jpg" alt="Donald Kimtai Profile" style="border-radius: 50%; max-width: 160px; margin: 2rem auto 1rem; display: block;">
+<img src="/assets/images/profiledp.jpg" alt="Donald Kimtai Profile" style="border-radius: 50%; max-width: 160px; margin: 2rem auto 1rem; display: block;">
 
 # Hi, I'm Donald Kimtai 
 
