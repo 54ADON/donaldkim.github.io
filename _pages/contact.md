@@ -2,7 +2,7 @@
 layout: single
 title: "Contact"
 permalink: /contact/
-author_profile: false
+author_profile: true
 classes: wide
 ---
 
